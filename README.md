@@ -233,3 +233,7 @@ border: 3px solid hsl(0, 100%, 50%);
         }
     }
 </style>
+
+Hacking
+IGaming
+Home
